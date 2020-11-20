@@ -1,5 +1,5 @@
 ## DPGCN
-DPGCN contains the source code for the paper "Open Set Graph Convolutional Network with Unknown Class Number".
+DPGCN contains the source code for the paper "Graph Convolutional Network with Unknown Class Number".
 
 Example 1 is a toy dataset.
 
